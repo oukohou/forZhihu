@@ -15,3 +15,6 @@
 
 
 以上链接可能需要科学上网。
+
+最后我的个人私货，敬请关注我的微信公众号：oukohou
+![image](https://github.com/oukohou/forZhihu/blob/master/Tieba/Hicari/QQ%E6%88%AA%E5%9B%BE20180508152150.png)
