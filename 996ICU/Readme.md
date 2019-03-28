@@ -1,4 +1,4 @@
-![ICU](https://s1.ax2x.com/2019/03/28/5GYCnl.png)  
+![ICU](https://s1.ax2x.com/2019/03/28/5GYerB.png)  
   
 Magic Portal：  
 - [996ICU](https://github.com/996icu/996.ICU)  
