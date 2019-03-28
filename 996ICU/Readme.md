@@ -10,4 +10,4 @@ Magic Portal：
 ---  
 
 my personal blog site:   
-![oukohou.wang|璇珠杂俎](https://www.oukohou.wang/)  
+[oukohou.wang|璇珠杂俎](https://www.oukohou.wang/)  
